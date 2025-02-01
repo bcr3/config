@@ -2,7 +2,7 @@
 #Settings for Inventory HUD
 [inventoryhud]
 	#Inventory HUD mini mode
-	invMini = false
+	invMini = true
 	#Inventory HUD vertical mode
 	invVert = false
 	#Inventory HUD alpha
@@ -15,7 +15,7 @@
 	#Hide background if inventory is empty
 	hideBackground = false
 	#Show Inventory HUD when debug menu is open
-	invWithDebug = true
+	invWithDebug = false
 
 #Settings for ArmorStatus HUD
 [armorhud]
@@ -27,13 +27,13 @@
 	#Show/Hide armor
 	showArmor = true
 	#Show/Hide armor
-	showMain = true
+	showMain = false
 	#Show/Hide armor
-	showOff = true
+	showOff = false
 	#Show/Hide armor
 	showArrows = true
 	#Show/Hide armor
-	showInv = true
+	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
 	armView = "PERCENTAGE"
@@ -49,7 +49,7 @@
 	#Range: 50 ~ 150
 	armScale = 100
 	#Show Armor HUD when debug menu is open
-	armWithDebug = true
+	armWithDebug = false
 	#Show arrows count when no weapon in your hands
 	showArrowsWithoutWeapon = true
 
@@ -75,7 +75,7 @@
 	#Disable icons for effects in this list
 	effectsBlackList = []
 	#Show Potion HUD when debug menu is open
-	potWithDebug = true
+	potWithDebug = false
 	#Show all levels of effects
 	potionLevels = false
 
@@ -113,10 +113,10 @@
 	potHalign = "LEFT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 20
+	xPotionPos = 4
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 20
+	yPotionPos = 6
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 103

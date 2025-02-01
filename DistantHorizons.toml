@@ -475,7 +475,7 @@ _version = 3
 			[client.advanced.debugging.f3Screen]
 				#
 				# Shows info about each thread pool.
-				showPlayerPos = true
+				showPlayerPos = false
 				#
 				# Defines what internal detail level the player position will be shown as. 
 				# Internal detail level means: 6 = 1x1 block, 7 = 2x2 blocks, etc.

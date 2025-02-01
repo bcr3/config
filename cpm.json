@@ -1,0 +1,29 @@
+{
+  "blockedList": {},
+  "editorDragMouseButton": -1.0,
+  "editorLastVersion": "0.6.19b",
+  "editorMenuMouseButton": 1.0,
+  "editorRecentProjects": [
+    "C:\\Users\\elrub\\Desktop\\Spartaland 3\\Modelos\\Floy\\IHATEMYSELFNOTMINE.cpmproject",
+    "C:\\Users\\elrub\\AppData\\Roaming\\com.bcr\\bc_launcher\\minecraft\\player_models\\Number.cpmproject",
+    "C:\\Users\\elrub\\AppData\\Roaming\\com.bcr\\bc_launcher\\minecraft\\player_models\\Ajolote.cpmproject"
+  ],
+  "editorRotateMouseButton": 2.0,
+  "editorSelectMouseButton": 0.0,
+  "editorUVAreaAlpha": 0.8,
+  "friendList": {},
+  "friendSettings": {},
+  "globalSettings": {},
+  "keybindPerModel": {},
+  "keybinds": {},
+  "modelProperties": {
+    "": {
+      "values": {}
+    }
+  },
+  "playerSettings": {},
+  "renderNames": true,
+  "safetyProfiles": {},
+  "serverSettings": {},
+  "titleScreenButton": true
+}
