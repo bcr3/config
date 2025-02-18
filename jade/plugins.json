@@ -6,7 +6,7 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
-    "item_storage": true,
+    "item_storage": false,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -39,7 +39,7 @@
     "entity_armor": true,
     "harvest_tool.creative": false,
     "horse_stats": true,
-    "item_tooltip": true,
+    "item_tooltip": false,
     "entity_health": true,
     "enchantment_power": true,
     "zombie_villager": true,
@@ -72,5 +72,11 @@
   },
   "camera": {
     "image_frame": true
+  },
+  "securitycraft": {
+    "showowner": false,
+    "showmodules": false,
+    "info": false,
+    "showcustomname": false
   }
 }
